@@ -1,0 +1,61 @@
+# [Aula 01] -> Python Power Up: Automação de Tarefas
+-----------------------------------------
+[CONTATO DÚVIDAS(?)] -> (21) 9 6721-8715
+-----------------------------------------
+[CÓDIGO DA AULA] = aprendapython
+
+## Por onde começar?
+Passo a passo do código(estruturar o código antes)
+Ex.: * Passo 1: babansbada
+     * Passo 2: ashuduashdusa
+     * Passo 3: ashuaadasidakf
+
+*[Passo 01]: Entrar no sistema
+    lib => pyautogui
+    1. Abrir Navegador
+        1. apertar tecla [Windows] -> pyautogui.press("win")
+
+        2. Digitar 'Chrome'
+
+    2. Entrar no link
+        1. Digitar link
+        2. Apertar tecla [Enter]
+
+*[Passo 02]: Fazer login
+    1. Digitar email
+        1. Clicar no box email
+        2. Digitar o email
+        3. Apertar tecla [Tab]
+
+    2. Digital Senha
+        1. Digitar a Senha
+        2. Apertar tecla [tab]
+
+    3. Clicar em Login
+        1. Apertar tecla [Enter]
+
+*[Passo 03]: Importar a base de dados
+    lib = pandas
+    base de dados => produtos.csv
+
+    1. Ler a base de dados
+        tabela = pandas.read_csv("produtos.csv")
+
+
+
+*[Passo 04]: Cadastrar um produto
+
+
+
+*[Passo 05]: Repetir o processo de cadastro para todos os produtos
+
+
+## [PYAUTOGUI]:
+*pyautogui.write -> escrever um texto
+*pyautogui.click -> clicar com o mouse
+*pyautogui.press -> apertar um tecla
+*pyautogui.hotkey -> apertar um atalho do teclado. Ex.: (Ctrl + V)
+
+*pyautogui.PAUSE -> pausa em segundos do proprio pyautogui
+
+*pyautogui.click(x=, y=)
