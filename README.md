@@ -17,7 +17,7 @@ O objetivo deste projeto era criar uma automação de cadastro de itens em um si
 1. Clone o repositório para sua máquina;
 2. Instale as bibliotecas pyautogui e pandas no seu ambiente
     1. `pip install _libname_`
-4. Execute o arquivo _main.py_, porém [**ATENÇÃO**] => O programa utiliza o posicionamento do mouse para clicar em alguns campos utilizado o *pyautogui*, então talvez seja necessário executá-lo em modo debugger e nos lugar em que há a função *pyautogui.click(x=,y=)* execute o arquivo getPosition e coloque o mouse na posição para conseguir as coordenadas dos respectivos campos.
+4. Execute o arquivo _main.py_, porém [**ATENÇÃO**] => O programa utiliza o posicionamento do mouse para clicar em alguns campos utilizado o *pyautogui*, então talvez seja necessário executá-lo em modo debugger e nos lugar em que há a função `pyautogui.click(x=,y=)` execute o arquivo getPosition e coloque o mouse na posição para conseguir as coordenadas dos respectivos campos.
 
 *Se chegou até aqui, sinta-se a vontade para analisar e sugerir melhorias e alterações para este projeto*\
 *Projeto sem intenção de monetização apenas utilizado para aprendizado*
