@@ -1,5 +1,5 @@
 # Pyhon PowerUp - Automação de Tarefas 🤖
-Projeto desenvolvido durante o intensivão "Jornada Python" do canal **[Hashtag Programação]**
+> Projeto desenvolvido durante o intensivão "Jornada Python" do canal **[Hashtag Programação]**
 
 ## Objetivo:
 O objetivo deste projeto era criar uma automação de cadastro de itens em um sistema fictício, usando um banco de dados em *.csv*
